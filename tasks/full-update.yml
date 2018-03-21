@@ -1,0 +1,6 @@
+---
+- name: installing all cos7 updates
+  yum:
+    name: '*'
+    state: latest
+...

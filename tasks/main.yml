@@ -1,0 +1,5 @@
+---
+# task file for hinkelsteinli.cos7-update
+- include_tasks: '{{ ospatch_level }}-update.yml'
+- include_tasks: 'reboot.yml'
+
