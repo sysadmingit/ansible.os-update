@@ -2,4 +2,4 @@
 - hosts: localhost
   remote_user: root
   roles:
-    - hinkelsteinli.cos7-update
+    - uniQconsulting.cos7-update

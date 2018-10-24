@@ -1,7 +1,9 @@
 ---
 galaxy_info:
-  author: Mike
-  description: CentOS 7 Full or Security Updates
+  author: Mike Gubser
+  company: uniQconsulting
+  description: Full or Security OS Updates
+  role_name: os-update
   min_ansible_version: 2.4
   license: GPLv3
   platforms:
