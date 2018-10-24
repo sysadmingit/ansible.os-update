@@ -1,5 +1,7 @@
+# uniQconsulting.os_update/test/playbook.yml
 ---
-- hosts: localhost
-  remote_user: root
+- name: Travis testing
+  hosts: all
   roles:
-    - uniQconsulting.cos7-update
+    - role: role_under_test
+...

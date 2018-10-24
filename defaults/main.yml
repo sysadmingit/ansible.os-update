@@ -1,5 +1,5 @@
 ---
-# defaults file for uniQconsulting.cos7-update
+# defaults file for uniQconsulting.cos7_update
 
 # ospatch_level: [none|security|full]
 ospatch_level: security
