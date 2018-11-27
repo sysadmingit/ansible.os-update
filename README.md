@@ -5,7 +5,7 @@
 OS Update with Ansible
 =================
 
-This Ansible make Security and / or full updates on Linux VMs.
+This Ansible make Security and / or full updates on Linux Server / Clients.
 
 Requirements
 ------------
