@@ -1,5 +1,5 @@
 ---
-# task file for uniQconsulting.cos7_update
+# task file for uniQconsulting.update
 - include_tasks: '{{ ospatch_level }}-update.yml'
 - include_tasks: 'reboot.yml'
 
