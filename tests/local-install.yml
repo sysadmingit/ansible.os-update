@@ -2,5 +2,5 @@
 - hosts: localhost
   become: yes
   roles:
-    - uniQconsulting.os_update
+    - uniqconsulting.os_update
 ...
