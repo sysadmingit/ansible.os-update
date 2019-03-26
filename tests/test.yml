@@ -1,4 +1,4 @@
-# uniQconsulting.os_update/test/playbook.yml
+# uniqconsulting.os_update/test/playbook.yml
 ---
 - name: Travis testing
   hosts: all

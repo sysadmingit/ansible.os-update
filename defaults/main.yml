@@ -1,5 +1,5 @@
 ---
-# defaults file for uniQconsulting.update
+# defaults file for uniqconsulting.update
 
 # ospatch_level: [none|security|full]
 ospatch_level: security
