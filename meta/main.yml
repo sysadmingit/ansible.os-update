@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Mike Gubser
-  company: uniQconsulting
+  company: uniqconsulting
   description: Full or Security OS Updates
   role_name: os_update
   min_ansible_version: 2.4
