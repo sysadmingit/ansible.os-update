@@ -1,7 +1,0 @@
-# uniqconsulting.os_update/test/playbook.yml
----
-- name: Travis testing
-  hosts: all
-  roles:
-    - role: role_under_test
-...
